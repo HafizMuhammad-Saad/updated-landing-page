@@ -363,6 +363,7 @@ svg {
   display: flex;
   justify-content: space-between;
   padding: 2rem;
+  align-items: center;
 }
 
 .heading-primary-white {
@@ -372,12 +373,13 @@ svg {
 }
 .white-button {
   background-color: var(--clr-accent-100);
-  color: var(--clr-primary-400);
+  color: var(--clr-accent-400);
   font-size: var(--fs-300);
   padding: 0.5rem 1rem;
   border-radius: 2rem;
   cursor: pointer;
   border: none;
+  
 }
 
 .footer {
