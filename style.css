@@ -382,7 +382,7 @@ svg {
 
 .footer {
   background-color: var(--clr-neutral-100);
-
+  padding: 2rem 0rem
 }
 .footer-container {
   display: flex;
