@@ -194,7 +194,8 @@ svg {
 }
 
 .button-primary:hover {
-  background-color: var(--clr-neutral-100);
+    opacity: 0.6;
+    box-shadow: 0px 10px 20px 0px var(--clr-accent-400);
 }
 
 /* header */
